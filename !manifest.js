@@ -1,9 +1,9 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "What's Different?",
-		"description": "Something is §ooff§r about the world, can you spot what's §bdifferent§r?",
-		"uuid": "d53b4306-adee-4c3b-a9b6-37e5304c3504",
+		"name": "§uPortal §7Rush§r",
+        "description": "§l§6/!\ Warning! §rNothing will work without this pack, do not remove it.",
+        "uuid": "d53b4306-adee-4c3b-a9b6-37e5304c3504",
 		"version": [ 1, 0, 0 ],
 		"min_engine_version": [ 1, 21, 100 ]
 	},
