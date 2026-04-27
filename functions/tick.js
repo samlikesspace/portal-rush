@@ -1,5 +1,6 @@
 {
   "values": [
-    "wiki/main"
+    "lobby"
+    "ingame"
   ]
 }
