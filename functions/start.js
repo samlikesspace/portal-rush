@@ -1,5 +1,5 @@
 tag @r[tag=queue] add main
-spreadplayers ~ ~ 1000 10000 @a[name="main"]
+spreadplayers ~ ~ 1000 100000 @a[tag=main]
 tp @a[tag=queue] @a[tag=main]
 
 summon armor_stand portal ~~~ 
