@@ -15,6 +15,6 @@ execute as @e[type=armor_stand,name="portal"] if entity @a[r=50] run tag @s add 
 execute as @e[type=armor_stand,name="portal"] if entity @a[r=50] run tag @s add active
 
 
-execute as @e[type=armor_stand,name="portal"] run title @a[rm=450] actionbar §l§vWarning! §r§6Your close to the world border!
-execute as @e[type=armor_stand,name="portal"] run title @a[rm=500] actionbar §l§4Notice! §r§cYour outside the world border.
-execute as @e[type=armor_stand,name="portal"] run damage @a[rm=500] 1 void
+execute as @e[type=armor_stand,name="spawn"] run title @a[rm=450] actionbar §l§vWarning! §r§6Your close to the world border!
+execute as @e[type=armor_stand,name="spawn"] run title @a[rm=500] actionbar §l§4Notice! §r§cYour outside the world border.
+execute as @e[type=armor_stand,name="spawn"] run damage @a[rm=500] 1 void
