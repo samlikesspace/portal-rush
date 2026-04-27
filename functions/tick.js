@@ -1,6 +1,6 @@
 {
   "values": [
-    "lobby"
+    "lobby",
     "ingame"
   ]
 }
