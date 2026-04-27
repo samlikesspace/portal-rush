@@ -24,5 +24,5 @@ tag @a remove main
 
 execute at @e[type=armor_stand,name="spawn"] run spreadplayers ~ ~ 250 500 @a[tag=queue]
 tag @a[tag=queue] add ingame
-tag @a[tag=playing] remove queue
+tag @a[tag=ingame] remove queue
 
